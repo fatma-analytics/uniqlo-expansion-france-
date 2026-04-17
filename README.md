@@ -45,25 +45,34 @@ The analysis is supported by interactive dashboards (see `final- 0211.pbix`) foc
 
 ## 📂 Project Structure
 
-- `final- 0211.pbix`: The core Power BI dashboard containing all data visualizations and regional models.
-- `competitive plan (1) (1).pdf`: The full strategic report detailing the expansion methodology and recommendations.
+- `final- 0211.pbix`: *This is the core Power BI dashboard. Due to its size and proprietary format, it is not directly included in this repository. A detailed guide on its usage is provided in `power_bi_guide.md`.*
+- `competitive plan (1) (1).pdf`: *This is the full strategic report. Due to its size and nature as a comprehensive deliverable, it is not directly included in this repository. A detailed summary is provided in `project_summary.md`.*
 - `project_summary.md`: An executive summary of the core findings and strategic scenarios.
+- `power_bi_guide.md`: A guide to understanding and navigating the Power BI dashboard.
 - `README.md`: This document.
+
+---
+
+## 📖 How to Access Full Reports & Run Locally
+
+If you are a recruiter or interested party and wish to review the full `final- 0211.pbix` Power BI dashboard or the `competitive plan (1) (1).pdf` strategic report, please contact Fatma Hammami directly. These documents contain in-depth market analysis, detailed visualizations, and comprehensive strategic recommendations.
 
 ---
 
 ## ⚙️ How to Use This Project
 
-### 1. Power BI Dashboard
-To explore the data visualizations:
-1. Download the `final- 0211.pbix` file.
-2. Open it using **Power BI Desktop**.
-3. Navigate through the tabs to see regional sales, market share forecasts, and productivity heatmaps.
+1.  **Clone the repository**:
+    ```bash
+    git clone https://github.com/fatma-analytics/uniqlo-expansion-france-.git
+    cd uniqlo-expansion-france-
+    ```
+2.  **Review the `project_summary.md`** for an executive overview of the project.
+3.  **Consult `power_bi_guide.md`** to understand the structure and key insights of the Power BI dashboard (if you have access to the `.pbix` file).
+4.  **Explore the `README.md`** (this document) for the project overview, methodology, and key recommendations.
 
-### 2. Strategic Report
-For a deep dive into the business logic:
-1. Open `competitive plan (1) (1).pdf`.
-2. Review the **Executive Summary** and **Recommendations** sections for actionable business insights.
+---
+
+## 🏆 Recommendations
 
 ---
 
