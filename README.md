@@ -45,8 +45,8 @@ The analysis is supported by interactive dashboards (see `final- 0211.pbix`) foc
 
 ## 📂 Project Structure
 
-- `final- 0211.pbix`: *This is the core Power BI dashboard. Due to its size and proprietary format, it is not directly included in this repository. A detailed guide on its usage is provided in `power_bi_guide.md`.*
-- `competitive plan (1) (1).pdf`: *This is the full strategic report. Due to its size and nature as a comprehensive deliverable, it is not directly included in this repository. A detailed summary is provided in `project_summary.md`.*
+- `final- 0211.pbix`: *Ceci est le tableau de bord Power BI principal. En raison de sa taille et de son format propriétaire, il n'est pas directement inclus dans ce dépôt. Un guide détaillé sur son utilisation est fourni dans `power_bi_guide.md`.*
+- `competitive plan (1) (1).pdf`: Ceci est le rapport stratégique complet. Il est inclus dans ce dépôt et fournit une analyse détaillée. Un résumé est également disponible dans `project_summary.md`.
 - `project_summary.md`: An executive summary of the core findings and strategic scenarios.
 - `power_bi_guide.md`: A guide to understanding and navigating the Power BI dashboard.
 - `README.md`: This document.
@@ -55,7 +55,7 @@ The analysis is supported by interactive dashboards (see `final- 0211.pbix`) foc
 
 ## 📖 How to Access Full Reports & Run Locally
 
-If you are a recruiter or interested party and wish to review the full `final- 0211.pbix` Power BI dashboard or the `competitive plan (1) (1).pdf` strategic report, please contact Fatma Hammami directly. These documents contain in-depth market analysis, detailed visualizations, and comprehensive strategic recommendations.
+Le rapport stratégique complet `competitive plan (1) (1).pdf` est disponible directement dans le dépôt. Pour le tableau de bord Power BI `final- 0211.pbix`, veuillez noter qu'il n'est pas inclus directement en raison de sa taille et de son format propriétaire. Un guide détaillé sur son utilisation est fourni dans `power_bi_guide.md`.
 
 ---
 
